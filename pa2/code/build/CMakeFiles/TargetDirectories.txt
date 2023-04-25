@@ -1,0 +1,6 @@
+/mnt/d/code/cg/pa2/code/build/CMakeFiles/PA2.dir
+/mnt/d/code/cg/pa2/code/build/CMakeFiles/edit_cache.dir
+/mnt/d/code/cg/pa2/code/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/code/cg/pa2/code/build/deps/vecmath/CMakeFiles/vecmath.dir
+/mnt/d/code/cg/pa2/code/build/deps/vecmath/CMakeFiles/edit_cache.dir
+/mnt/d/code/cg/pa2/code/build/deps/vecmath/CMakeFiles/rebuild_cache.dir
