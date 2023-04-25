@@ -1,7 +1,20 @@
 # 《计算机图形学基础》作业
 ## 清华大学计算机系本科生课程
 
+## Dependecy
+pa0,pa1无外部依赖
+
+pa2以及后续项目需要安装
+`GL,GLUT`
+
+安装方法：
+```
+sudo apt install freeglut3-dev
+sudo apt install mesa-common-dev
+```
+
 ## Usage：
+
 
 以运行pa2为例
 ```
