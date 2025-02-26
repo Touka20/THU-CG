@@ -4,6 +4,9 @@
 ## Dependecy
 pa0,pa1无外部依赖
 
+
+
+
 pa2以及后续项目需要安装
 `GL,GLUT`
 
